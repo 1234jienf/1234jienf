@@ -62,13 +62,15 @@
 - **활동 기간**: 2023.07. ~ 2023.12
 - **주요 내용**: 파이썬, 알고리즘, Vue, Django 등의 교육 이수와 프로젝트 수행.
 - **프로젝트명**: 다산다 쇼핑몰 사이트 프로젝트(무신사 클론 코딩), 금융 애플리케이션 개발 프로젝트
+  - **설명**: VUE를 이용하여 사용자 친화적인 디자인 및 기능 구현을 통해 정기예금/적금비교, MBTI 설문을 통한 성향 분석 등등의 서비스 구현
+  - **GitHub 저장소**: [금융 상품 비교 FREDDIT](https://github.com/1234jienf/final-pjt)
 
 ### 📍 삼성 청년 SW 아카데미 10기 2학기
 - **활동 기간**: 2024.02. ~ 현재
 - **프로젝트**:
   1. **BID - 초등 교육 금융 플랫폼**
-     - **설명**: 초등학생을 대상으로 한 경제 및 금융 교육을 위한 플랫폼 개발.
-     - **GitHub 저장소**: [BID 프로젝트](https://github.com/1234jienf/B-D)
+    - **설명**: 초등학생을 대상으로 한 경제 및 금융 교육을 위한 플랫폼 개발.
+    - **GitHub 저장소**: [BID 프로젝트](https://github.com/1234jienf/B-D)
   2. **미슐랭 더 한양 - 전통 한식 요리 RPG**
      - **설명**: 전통 한식을 주제로 한 RPG 게임 개발.
      - **GitHub 저장소**: [미슐랭 더 한양](https://github.com/1234jienf/Michelin-de-Hanyang)
@@ -91,41 +93,43 @@
 
 ## 🔖 School Projects
 
-
-**2020.09- 2020.12 - 미래를상상하다: 윤제주**
+**2020.09 - 2020.12 - 미래를 상상하다: 윤제주**
 - 사용 기술 : RHINOCEROS, V-RAY RENDER
+<p>
+  <img src="윤제주1.png" width="180">
+  <img src="윤제주2.png" width="180">
+  <img src="윤제주3.png" width="180">
+</p>
 
-<img src="윤제주1.png" width="180">
-<img src="윤제주2.png" width="180">
-<img src="윤제주3.png" width="180">
-
-
-**2021.03- 2021.06 - 가구디자인과 디지털 패브리케이션**
+**2021.03 - 2021.06 - 가구디자인과 디지털 패브리케이션**
 - 사용 기술 : RHINOCEROS
+<p>
+  <img src="가구1.png">
+  <img src="가구2.png">
+  <img src="가구3.png">
+</p>
 
-<img src="가구1.png" >
-<img src="가구2.png" >
-<img src="가구3.png" >
-
-**2021.03- 2021.06 - 넷플릭스, 결을 말하다**
+**2021.03 - 2021.06 - 넷플릭스, 결을 말하다**
 - 사용 기술 : RHINOCEROS, AUTOCAD, ENSCAPE
-
-<img src="넷플릭스1.png" >
-<img src="넷플릭스3.png" >
-<img src="넷플릭스4.png" width="70" >
-<img src="넷플릭스2.png" width="70" >
-
+<p>
+  <img src="넷플릭스1.png">
+  <img src="넷플릭스3.png">
+  <img src="넷플릭스4.png" width="70">
+  <img src="넷플릭스2.png" width="70">
+</p>
 
 **2021.09 - 2021.12 - 성수동 구두골목 인쇄소 업사이클링 프로젝트**
 - 사용 기술 : RHINOCEROS, ENSCAPE
-
-<img src="성수동1.png" >
-<img src="성수동2.png" >
-<img src="성수동3.png" >
+<p>
+  <img src="성수동1.png">
+  <img src="성수동2.png">
+  <img src="성수동3.png">
+</p>
 
 **2022.03 - 2022.11 - 감염병 대응 HUB**
 - 사용 기술 : RHINOCEROS, TWIN MOTION, PHOTOSHOP
-
-<img src="감염병1.png" >
-<img src="감염병2.png" width="160" >
-<img src="감염병3.png" width="160" >
+<p>
+  <img src="감염병1.png">
+  <img src="감염병2.png" width="160">
+  <img src="감염병3.png" width="160">
+</p>
