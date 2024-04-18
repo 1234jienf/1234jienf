@@ -1,7 +1,10 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00bfcd,100:108b94&height=120&animation=fadeIn&section=footer&text=🌟🌠☄️🌃&fontAlign=70) -->
 
 <!-- ![3d](./profile-3d-contrib/profile-green-animate.svg) -->
-# Hi, I'm JiYoon 👋
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7F7F7&background=0096FF&center=true&vCenter=true&random=false&width=435&height=38&lines=Hi+I'm+JiYoon+👋;)](https://git.io/typing-svg)
+
 
 > **도전을 두려워하지 않으며**  
 > **늘 배움과 새로움에 적극적인 자세를 지닌**
@@ -11,6 +14,8 @@
 
 ![Profile Image](photo.jpeg)
 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1234jienf)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ## 📖 About Me
 
 - **🎂 Birth**: 1999.05.05
@@ -18,6 +23,22 @@
 - **🐱 GitHub**: [1234jienf](https://github.com/1234jienf)
 - **💾 Tech Blog**: [My Posts](https://velog.io/@jyoon6992/posts)
 - **📷 Instagram**: [Follow Me](https://www.instagram.com/bjy_devportfolio)
+
+## ⛏️ Skills and Tools
+
+### Frontend
+
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=Typescript&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white"> <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css&logoColor=white">
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Client
+
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/Aesprite-7D929E?style=for-the-badge&logo=Aesprite&logoColor=black"> ![c](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
+### Communication
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white"> 
 
 ## 🎓 Education
 
@@ -58,8 +79,6 @@
 
 <!-- - **OPIc**: Intermediate High
 - **TOEIC**: Scored 860 -->
-
-## ⛏️ Skills and Tools
 
 
 ## 🏆 Awards
