@@ -75,7 +75,7 @@
      - **설명**: 전통 한식을 주제로 한 RPG 게임 개발.
      - **GitHub 저장소**: [미슐랭 더 한양](https://github.com/1234jienf/Michelin-de-Hanyang)
   3. **STEP TO DANCE - AI 춤 인식을 통한 춤교육 및 숏폼 생성 애플리케이션**
-     - **설명**: 전통 한식을 주제로 한 RPG 게임 개발.
+     - **설명**: 모션 인식 기술로 사용자의 춤을 분석하고 즉각적인 피드백을 제공하는 모바일 앱
      - **GitHub 저장소**: [STEP TO DANCE](https://github.com/SSAFY-A101/StepToDance)
 
 ![3D Contributions](./profile-3d-contrib/profile-green-animate.svg)
