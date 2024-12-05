@@ -77,6 +77,14 @@
   3. **STEP TO DANCE - AI 춤 인식을 통한 춤교육 및 숏폼 생성 애플리케이션**
      - **설명**: 모션 인식 기술로 사용자의 춤을 분석하고 즉각적인 피드백을 제공하는 모바일 앱
      - **GitHub 저장소**: [STEP TO DANCE](https://github.com/SSAFY-A101/StepToDance)
+    
+### 📍 메타버스 공모전 / 메타버스 아카데미 3기
+- **활동 기간**: 2024.08. ~ 2024.12
+- **프로젝트**
+  - **META SPACE - VR 3D 방탈출 게임**
+     - **설명** : 우주선을 배경으로 한 VR (OCULUS 2) 방탈출 게임
+     - **GitHub 저장소**: [META-SPACE-VR 버전](https://github.com/META-SPACE-VR/Project)
+
 
 ![3D Contributions](./profile-3d-contrib/profile-green-animate.svg)
 
