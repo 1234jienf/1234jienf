@@ -40,7 +40,8 @@
 
 ## 🎓 Education
 
-- 2023.07 ~ 현     재     삼성 청년 SW 아카데미 10기 재학중
+- 2024.08 ~ 2024.12     메타버스 아카데미 3기 이수
+- 2023.07 ~ 2024.06     삼성 청년 SW 아카데미 10기 이수
 - 2023.01 ~ 2023.07     콴다 과외 수학 선생님
 - 2019.03 ~ 2023.08     한양대학교 실내건축디자인학과 (이학사) - 주전공
 - 2019.03 ~ 2023.08     한양대학교 창업융합학과 - 복수전공
@@ -84,6 +85,14 @@
   - **META SPACE - VR 3D 방탈출 게임**
      - **설명** : 우주선을 배경으로 한 VR (OCULUS 2) 방탈출 게임
      - **GitHub 저장소**: [META-SPACE-VR 버전](https://github.com/META-SPACE-VR/Project)
+   
+### 📍 인디크래프트 공모전
+- **활동 기간**: 2024.10. ~ 2025.05
+- **프로젝트**
+  - **META SPACE - LUCID WALKER**
+     - **설명** : 꿈이라는 소재를 사용하는 퍼즐 액션의 2D 플랫포머
+     - **GitHub 저장소**: [LucidWalker](https://github.com/Starbow-Break/Lucid-Walker)
+     - **트레일러**: [Youtube링크](https://www.youtube.com/watch?v=BRuhkEOjO2c)
 
 
 ![3D Contributions](./profile-3d-contrib/profile-green-animate.svg)
